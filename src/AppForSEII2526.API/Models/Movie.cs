@@ -4,5 +4,6 @@
     {
         //This is a comment
         //I have to add a reference to Rental
+        //Here I have to add a reference to Genre
     }
 }
